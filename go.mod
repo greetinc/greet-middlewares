@@ -4,12 +4,13 @@ go 1.21.0
 
 require (
 	github.com/golang-jwt/jwt/v4 v4.5.0
-	github.com/greetinc/greet-auth-srv v0.0.0-20240405071853-90ea8bc6b418
+	github.com/greetinc/greet-util v0.0.0-20240406004240-ec90800b327e
 	github.com/labstack/echo/v4 v4.11.4
 )
 
 require (
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect

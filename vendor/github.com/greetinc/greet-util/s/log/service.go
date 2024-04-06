@@ -3,7 +3,7 @@ package log
 import (
 	"context"
 
-	"github.com/greetinc/greet-auth-srv/util/elasticsearch"
+	"github.com/greetinc/greet-util/s/elasticsearch"
 )
 
 const (

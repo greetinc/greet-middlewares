@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/greetinc/greet-auth-srv/util/date"
-	"github.com/greetinc/greet-auth-srv/util/log"
+	"github.com/greetinc/greet-util/s/date"
+	"github.com/greetinc/greet-util/s/log"
 
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"

@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	res "github.com/greetinc/greet-auth-srv/util/response"
+	res "github.com/greetinc/greet-util/s/response"
 
 	"github.com/golang-jwt/jwt/v4"
 	"github.com/labstack/echo/v4"
