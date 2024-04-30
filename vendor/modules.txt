@@ -6,7 +6,7 @@ github.com/golang-jwt/jwt
 github.com/golang-jwt/jwt/v4
 # github.com/google/go-cmp v0.5.9
 ## explicit; go 1.13
-# github.com/greetinc/greet-util v0.0.0-20240406004240-ec90800b327e
+# github.com/greetinc/greet-util v0.0.0-20240407025216-d1d61298aabe
 ## explicit; go 1.21.0
 github.com/greetinc/greet-util/s/date
 github.com/greetinc/greet-util/s/elasticsearch

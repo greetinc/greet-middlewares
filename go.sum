@@ -9,8 +9,8 @@ github.com/golang-jwt/jwt/v4 v4.5.0 h1:7cYmW1XlMY7h7ii7UhUyChSgS5wUJEnm9uZVTGqOW
 github.com/golang-jwt/jwt/v4 v4.5.0/go.mod h1:m21LjoU+eqJr34lmDMbreY2eSTRJ1cv77w39/MY0Ch0=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/greetinc/greet-util v0.0.0-20240406004240-ec90800b327e h1:nMksTj6fQwHdsYLpqVB0YNOwA5JUdDQ1b1gByCgW7uM=
-github.com/greetinc/greet-util v0.0.0-20240406004240-ec90800b327e/go.mod h1:Pb/pmApNqEfnvShtVl+HMWvpre9WMBLvbz43amIcSLE=
+github.com/greetinc/greet-util v0.0.0-20240407025216-d1d61298aabe h1:BhBju3wLmcdsBriibHRX3Zk49M8U1rHgpBYxQEZZP2Y=
+github.com/greetinc/greet-util v0.0.0-20240407025216-d1d61298aabe/go.mod h1:mtnOJFisFBO/zhNW9tzREkZL4SRdRdnk1eb5nx59d7Y=
 github.com/josharian/intern v1.0.0 h1:vlS4z54oSdjm0bgjRigI+G1HpF+tI+9rE5LLzOg8HmY=
 github.com/josharian/intern v1.0.0/go.mod h1:5DoeVV0s6jJacbCEi61lwdGj/aVlrQvzHFFd8Hwg//Y=
 github.com/labstack/echo/v4 v4.11.4 h1:vDZmA+qNeh1pd/cCkEicDMrjtrnMGQ1QFI9gWN1zGq8=

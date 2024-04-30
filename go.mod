@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/golang-jwt/jwt/v4 v4.5.0
-	github.com/greetinc/greet-util v0.0.0-20240406004240-ec90800b327e
+	github.com/greetinc/greet-util v0.0.0-20240407025216-d1d61298aabe
 	github.com/labstack/echo/v4 v4.11.4
 )
 
